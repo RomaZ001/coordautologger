@@ -6,7 +6,7 @@ overwY = input("Write Overworld cord Y ")
 overwZ = input("Write Overworld cord Z ")
 
 netherX = int(overwX)/8
-netherY = int(overwY)/8
+netherY = int(overwY)
 netherZ = int(overwZ)/8
 
 
